@@ -42,3 +42,27 @@ http://localhost:3000
 The MongoDB connection can be configured by modifying the `config.env` file. Update the `MONGO_URI` value with your MongoDB connection string.
 
 ## Screenshots
+
+<div align=center>
+  
+<table>
+  <tr>
+    <th>Home Page</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home-page.png" alt="Home Page Screenshot"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Add User</th>
+    <th>Update User</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/add-user.png" alt="Add User Screenshot"></td>
+    <td><img src="screenshots/update-user.png" alt="Update User Screenshot"></td>
+  </tr>
+</table>
+
+</div>
