@@ -5,11 +5,14 @@ A User Database Management System is a project built with MongoDB, Express.js, a
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/user-database-management-system.git`
+```
+git clone https://github.com/your-username/user-database-management-system.git
+```
 
 2. Install the dependencies:
-
-`npm install`
+```
+npm install
+```
 
 3. Configure the MongoDB connection:
 
@@ -17,9 +20,14 @@ A User Database Management System is a project built with MongoDB, Express.js, a
 -   Replace the `MONGO_URI` value with your MongoDB connection string.
 
 4. Start the server:
-   `npm start`
+```
+npm start
+```
 
-5. Access the application in your browser at `http://localhost:3000`.
+5. Access the application in your browser at 
+```
+http://localhost:3000 
+```
 
 ## Usage
 
@@ -31,32 +39,6 @@ A User Database Management System is a project built with MongoDB, Express.js, a
 
 ## Configuration
 
-The MongoDB connection can be configured by modifying the `config.js` file. Update the `MONGO_URI` value with your MongoDB connection string.
+The MongoDB connection can be configured by modifying the `config.env` file. Update the `MONGO_URI` value with your MongoDB connection string.
 
-## Contributing
-
-Contributions to this project are welcome. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request explaining your changes.
-
-Please follow the [code of conduct](CODE_OF_CONDUCT.md) while contributing.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We would like to thank the following open-source projects for their contributions:
-
--   [Express.js](https://expressjs.com/)
--   [Node.js](https://nodejs.org/)
--   [MongoDB](https://www.mongodb.com/)
-
-## Contact Information
-
-For any questions or suggestions, feel free to reach out to the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+## Screenshots
